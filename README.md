@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Pradip Waghmare
 
-🚀 Angular Developer | Flutter Developer | SaaS Builder | AI Enthusiast  
-🏢 Founder @ Prakrut  
+🚀 Angular Developer | Flutter Developer | SaaS Builder | AI Enthusiast    
 📍 India  
 
 ---

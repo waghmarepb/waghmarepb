@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Full Stack Developer with 6+ years of experience in building scalable web and mobile applications.
+I am a Full Stack Developer with 12+ years of experience in building scalable web and mobile applications.
 
 I specialize in:
 

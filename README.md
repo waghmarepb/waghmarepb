@@ -13,7 +13,7 @@
 <!-- ============ BADGES (yellow / black) ============ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waghmarepb&label=Profile%20views&color=FFDD00&style=flat" alt="profile views" />
-  <a href="https://waghmarepb.in"><img src="https://img.shields.io/badge/Portfolio-waghmarepb.github.io-FFDD00?style=flat&logo=googlechrome&logoColor=black" alt="portfolio" /></a>
+  <a href="https://waghmarepb.in"><img src="https://img.shields.io/badge/Portfolio-waghmarepb.in-FFDD00?style=flat&logo=googlechrome&logoColor=black" alt="portfolio" /></a>
   <a href="mailto:waghmarepb@outlook.com"><img src="https://img.shields.io/badge/Email-waghmarepb@outlook.com-FFDD00?style=flat&logo=maildotru&logoColor=black" alt="email" /></a>
 </p>
 
